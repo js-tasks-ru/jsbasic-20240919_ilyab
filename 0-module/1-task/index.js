@@ -1,3 +1,3 @@
 function sum(m, n) {
-  // ваш код...
-}
+  const result = n+m;
+return result; }
